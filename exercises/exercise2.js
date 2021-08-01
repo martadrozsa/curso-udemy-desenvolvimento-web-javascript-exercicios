@@ -19,6 +19,3 @@ function triangleSize (side1, side2, side3) {
 console.log(triangleSize(2, 1, 3))
 console.log(triangleSize(2, 2, 2))
 console.log(triangleSize(2, 3, 3))
-
-console.log(triangleSize(3, 3, 1))
-console.log(triangleSize(3, 1, 3))
