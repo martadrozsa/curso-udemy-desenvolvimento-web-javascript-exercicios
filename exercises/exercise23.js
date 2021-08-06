@@ -7,3 +7,5 @@ Mostre o código do aluno, suas três notas, a média calculada e uma mensagem "
 function weightedAverage(studentCode, weighted1, weighted2, weighted3) {
 
 }
+
+//exercise23WeightedAverage

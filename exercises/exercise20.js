@@ -6,3 +6,5 @@ Por exemplo, ao solicitar R$18, o programa deve informar apenas a seguinte infor
 
 function countMoneyBill(cashValue) {
 }
+
+//exercise20CountMoneyBill
