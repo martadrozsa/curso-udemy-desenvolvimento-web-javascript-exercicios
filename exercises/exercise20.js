@@ -4,7 +4,5 @@ Por exemplo, ao solicitar R$18, o programa deve informar apenas a seguinte infor
 1 nota(s) de R$ 10. 1 nota(s) de R$ 5. 3 nota(s) de R$ 1.
 */
 
-function countMoneyBill(cashValue) {
-}
 
 //exercise20CountMoneyBill
