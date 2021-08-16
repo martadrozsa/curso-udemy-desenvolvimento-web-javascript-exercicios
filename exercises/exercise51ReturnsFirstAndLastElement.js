@@ -9,11 +9,11 @@ function returnsFirstAndLastElement (numbers) {
     newArray.push(firstElement)
     newArray.push(lastElement)
 
-    console.log(newArray)
+    return newArray
 
 }
 
 
 let arrayNumber = [5, 6, 7, 8, 9, 10]
-returnsFirstAndLastElement(arrayNumber)
+console.log(returnsFirstAndLastElement(arrayNumber))
 
